@@ -1,23 +1,13 @@
-Создание окружения
-<img width="1280" height="603" alt="image" src="https://github.com/user-attachments/assets/2f2cc391-1f43-4b69-8ba7-528b059f6f11" />
-
-Задание 1: Вывод логов в файл
-<img width="1280" height="642" alt="image" src="https://github.com/user-attachments/assets/acb8a92d-0614-4d2f-ac90-1a5967e12a1c" />
-
-Задание 2: Проверка docker-stats
-<img width="1280" height="185" alt="image" src="https://github.com/user-attachments/assets/93b0f4ff-a418-4d29-aec9-6506c18b6413" />
-
-<img width="1280" height="599" alt="image" src="https://github.com/user-attachments/assets/24624675-aa7a-47e7-a6aa-cb71cc056957" />
-
-Задание 3: Ограничение ресурсов
-
-<img width="1280" height="750" alt="image" src="https://github.com/user-attachments/assets/da80747a-f043-45e5-b399-dd8d3100b07d" />
-
-Задание 4: Экспорт в tar
-<img width="1275" height="653" alt="image" src="https://github.com/user-attachments/assets/175b8e01-638d-4aa7-9154-1275e8ab2180" />
-
-image
-Задание 5: Импорт из tar
-<img width="1280" height="448" alt="image" src="https://github.com/user-attachments/assets/ac103cbb-a38c-4fe7-b44c-d1926af34117" />
-
-<img width="1104" height="384" alt="image" src="https://github.com/user-attachments/assets/663ac780-84d8-4f59-8746-e89f3438f0b2" />
+<img width="554" height="640" alt="image" src="https://github.com/user-attachments/assets/4b11f98b-318d-4b11-b852-cdd679bc210b" />Окружение 
+<img width="666" height="498" alt="image" src="https://github.com/user-attachments/assets/b5a3b96e-3a04-4141-a90b-71e71adcfbe5" />
+Вывод логов в файл 
+<img width="694" height="124" alt="image" src="https://github.com/user-attachments/assets/682371a1-9a4d-40d3-acef-bd3e66f86b0b" />
+Ограничение ресурсов
+<img width="703" height="516" alt="image" src="https://github.com/user-attachments/assets/52d0eddb-abf3-4e27-a3b3-f843a819c6b5" />
+Экспорт контейнера 
+<img width="698" height="333" alt="image" src="https://github.com/user-attachments/assets/7762dd10-4713-4054-8cc1-1cc8afbedb53" />
+после ошибки чекаю контейнер
+<img width="680" height="151" alt="image" src="https://github.com/user-attachments/assets/a36b571d-c971-45b8-8aee-be425b63ed84" />
+запустили скрипт вручную
+<img width="711" height="397" alt="image" src="https://github.com/user-attachments/assets/115ad19e-8221-4ff6-9fe2-940393ea4c54" />
+https://i.pinimg.com/originals/78/bc/05/78bc05d4c43fa685cc54e9b539bac00d.gif
