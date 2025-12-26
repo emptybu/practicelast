@@ -10,4 +10,5 @@
 <img width="680" height="151" alt="image" src="https://github.com/user-attachments/assets/a36b571d-c971-45b8-8aee-be425b63ed84" />
 запустили скрипт вручную
 <img width="711" height="397" alt="image" src="https://github.com/user-attachments/assets/115ad19e-8221-4ff6-9fe2-940393ea4c54" />
-https://i.pinimg.com/originals/78/bc/05/78bc05d4c43fa685cc54e9b539bac00d.gif
+[https://i.pinimg.com/originals/78/bc/05/78bc05d4c43fa685cc54e9b539bac00d.gif
+](https://i.pinimg.com/originals/78/bc/05/78bc05d4c43fa685cc54e9b539bac00d.gif)<img width="554" height="640" alt="image" src="https://github.com/user-attachments/assets/267cc0a9-dc9b-4fc9-9901-0191cd191056" />
